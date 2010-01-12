@@ -1,5 +1,5 @@
 category: KDE
-requires: kdelibs4 qt3 libsqlite3_0
+requires: libgcc1 libkdecore5 libnepomuk4 libqimageblitz4 libQt3Support4 libQtCore4 libQtDBus4 libQtGui4 libQtSql4 libQtXml4 libsqlite3_0 libstdc++6 libxml2 libxslt
 sdesc: "KDE recipe manager"
 ldesc: "Krecipes is a program that lets you to manage your recipes, 
 create shopping lists, choose a recipe based on available ingredients 
