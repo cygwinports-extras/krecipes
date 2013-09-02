@@ -1,0 +1,13 @@
+inherit kde4
+
+NAME="krecipes"
+VERSION=2.0-beta2
+RELEASE=1
+CATEGORY="Utils"
+SUMMARY="KDE recipe manager"
+DESCRIPTION="Krecipes is a program that lets you to manage your recipes,
+create shopping lists, choose a recipe based on available ingredients and
+plan your menu/diet in advance."
+DESCRIPTION="KDE recipe manager"
+HOMEPAGE="http://krecipes.sourceforge.net/"
+SRC_URI="mirror://sourceforge/krecipes/krecipes-${VERSION}.tar.gz"

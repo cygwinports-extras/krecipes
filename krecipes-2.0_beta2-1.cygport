@@ -1,6 +1,0 @@
-inherit kde4
-
-DESCRIPTION="KDE recipe manager"
-HOMEPAGE="http://krecipes.sourceforge.net/"
-SRC_URI="mirror://sourceforge/${PN}/${P/_/-}.tar.gz"
-SRC_DIR="${P/_/-}"
