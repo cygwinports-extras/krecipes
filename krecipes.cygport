@@ -11,3 +11,5 @@ plan your menu/diet in advance."
 DESCRIPTION="KDE recipe manager"
 HOMEPAGE="http://krecipes.sourceforge.net/"
 SRC_URI="mirror://sourceforge/krecipes/krecipes-${VERSION}.tar.gz"
+
+REQUIRES="kde-runtime"
